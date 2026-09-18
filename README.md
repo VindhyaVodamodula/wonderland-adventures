@@ -172,7 +172,7 @@ Then open the local address displayed in the terminal.
 
 ## 🌐 Live Demo
 
-**Live playable version coming soon.**
+🎮 [Play Wonderland Adventures](wonderland-adventures.netlify.app)
 
 Once deployed, the game will be playable directly through a web browser without requiring installation.
 
