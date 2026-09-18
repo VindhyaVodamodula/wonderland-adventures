@@ -182,9 +182,6 @@ Once deployed, the game will be playable directly through a web browser without 
 
 Screenshots and gameplay previews will be added here.
 
-## 📸 Screenshots
-
-## 📸 Screenshots
 
 ### Opening Scene
 ![Wonderland Adventures Opening](screenshots/titile-bg.png)
