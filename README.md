@@ -184,14 +184,16 @@ Screenshots and gameplay previews will be added here.
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Opening Scene
-![Wonderland Adventures Opening](C:\projects\wonderland-adventures\screenshots\titile-bg.png)
+![Wonderland Adventures Opening](screenshots/titile-bg.png)
 
 ### Mystery Room
-![Mystery Room](C:\projects\wonderland-adventures\screenshots\MR-closed.png)
+![Mystery Room](screenshots/MR-closed.png)
 
 ### Queen's Garden
-![Queen's Garden](C:\projects\wonderland-adventures\screenshots\Win-QueensGarden.png)
+![Queen's Garden](screenshots/Win-QueensGarden.png)
 
 
 
